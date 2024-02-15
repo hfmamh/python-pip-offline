@@ -48,3 +48,7 @@ python -m pip install \
 - [StackOverflow: How to install packages offline?](https://stackoverflow.com/questions/11091623/how-to-install-packages-offline)
 
 - [Azure Docs: Deployment Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python?tabs=asgi%2Capplication-level&pivots=python-mode-decorators#install-local-packages)
+
+- [Azure Functions Deploy Guide](https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=linux%2Cdotnet&pivots=method-manual)
+
+- [Github actions for deploy to azure](https://github.com/Azure/functions-action/)
