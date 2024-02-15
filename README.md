@@ -46,3 +46,5 @@ python -m pip install \
 - [manylinux](https://github.com/pypa/manylinux)
 
 - [StackOverflow: How to install packages offline?](https://stackoverflow.com/questions/11091623/how-to-install-packages-offline)
+
+- [Azure Docs: Deployment Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python?tabs=asgi%2Capplication-level&pivots=python-mode-decorators#install-local-packages)
