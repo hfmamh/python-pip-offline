@@ -4,7 +4,7 @@ This is a remake of a guide I've made long time ago. This is particularly useful
 
 Also, using the similar principles, you can build your application and dependencies for a serverless deployment on AWS Lambda and Azure Functions. I'll explain further later on.
 
-## First Step
+## Download libraries
 
 Create a folder (`venv_libs` here) and inside of it run:
 
