@@ -1,10 +1,10 @@
 # Instalacion de bibliotecas de Python sin internet con `pip download`
 
-Esta es una versión actualizada de una guía que hice hace tiempo. Es particularmente útil cuando tienes un servidor en una intranet detrás de un firewall que bloquea el acceso a PyPI.
+Esta guia proporciona una manera de instalar librerias en un servidor cuando no se tiene conexion a internet, descargandolas en otra maquina e instalandolas manualmente. Esto es particularmente util en una red privada detrás de un firewall que bloquea el acceso a PyPI.
 
-Además, utilizando los mismos principios, puedes construir tu build para despplegar en servicios cloud serverless como AWS Lambda y Azure Functions.
+Además, utilizando los mismos principios, puedes construir tu build para desplegar en servicios cloud serverless como AWS Lambda y Azure Functions.
 
-## Descargar bibliotecas
+## Descargar bibliotecas en otra maquina
 
 Para este caso utilizaremos la libreria pandas de ejemplo. De igual forma, puedes usar un archivo `requirements.txt` para multiples librerias.
 
